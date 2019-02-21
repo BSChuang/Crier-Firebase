@@ -1,0 +1,26 @@
+.row1 {
+    background-color: coral;
+}
+
+h3.row1 {
+    color: white;
+}
+
+p.row1 {
+    color:rgb(255, 231, 223);
+}
+
+body, html {
+    height: 100%;
+}
+
+.bg {
+    background-image: url('background.jpg');
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
